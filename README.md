@@ -1,0 +1,1 @@
+# TerneryOperator_Bootcamp
